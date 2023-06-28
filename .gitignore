@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Miscellaneous
+.DS_Store
+
+# Environment Variables
+.env
